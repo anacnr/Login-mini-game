@@ -13,9 +13,11 @@
     <div>
         <h1>Mini Game <i class="bi bi-rocket"></i></h1>
         <form action="#" method="post">
-            <input type="text" id="input-user" name="user" placeholder="Nickname or Email" minlength="2" maxlength="200"> 
+            <label for="input-user"></label>
+            <input type="text" id="input-user" name="user" placeholder="Nickname or Email" aria-label="Nickname or Email" minlength="2" maxlength="200"> 
             <br>
-            <input type="password" id="input-password" name="password" placeholder="Password" minlength="4" maxlength="25">
+            <label for="input-password"></label>
+            <input type="password" id="input-password" name="password" placeholder="Password" aria-label="Password" minlength="4" maxlength="25">
             <br>
             <input type="submit" id="button" name="button">
         </form>
