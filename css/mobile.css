@@ -24,7 +24,7 @@ div{
     } 
 
     @keyframes title {
-    0% {color: rgb(252, 149, 14); font-size: 2em; padding-top: 15%;} 25% {color: rgb(252, 252, 94);} 50% { color: rgb(255, 255, 173);}100% {color: var(--font-color);}
+    0% {color: rgb(252, 149, 14); font-size: 2em; padding-top: 15%;} 25% {color: rgb(253, 213, 149);} 50% { color: rgb(250, 243, 225);}100% {color: var(--font-color);}
     }
 
     div > form{
@@ -71,7 +71,7 @@ div{
     } 
 
     @keyframes title {
-    0% {color: rgb(252, 149, 14); font-size: 2em; padding-top: 10%;} 25% {color: rgb(252, 252, 94);} 50% { color: rgb(255, 255, 173);}100% {color: var(--font-color);}
+    0% {color: rgb(252, 149, 14); font-size: 2em; padding-top: 15%;} 25% {color: rgb(253, 213, 149);} 50% { color: rgb(250, 243, 225);}100% {color: var(--font-color);}
     }
 
     div > form{
