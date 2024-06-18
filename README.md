@@ -3,6 +3,6 @@
 Este repositório armazena uma tela simples de login com a temática do espaço sideral, onde um astronauta aventureiro explora os planetas.
 
 
-### Download da tela
+### Execução da tela de login
 
-O donwload não precisa de nenhum programa para ser rodado. Apenas será aberto dentro do navegador.
+A execução da pequena aplicação será aberta no navegador ao clicar no arquivo principal. 
